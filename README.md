@@ -3,6 +3,7 @@
 
 ### Education
 University At Albany, State University of New York
+
 Masters of Science in Data Science 
 
 ## Work Experience
